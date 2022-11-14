@@ -10,7 +10,7 @@ var emojiDictionary = {
   "🍕": "Die pizza",
   "🍳": "Das ei",
   "🍪": "Der cookie",
-  "🍜": "Die nudel"
+  "🍜": "Die nudel",
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
